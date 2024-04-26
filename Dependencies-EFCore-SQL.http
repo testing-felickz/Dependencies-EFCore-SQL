@@ -1,0 +1,6 @@
+@Dependencies_EFCore_SQL_HostAddress = http://localhost:5263
+
+GET {{Dependencies_EFCore_SQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
